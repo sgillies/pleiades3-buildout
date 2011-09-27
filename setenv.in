@@ -1,0 +1,1 @@
+export LD_LIBRARY_PATH=${libgeos}:${libxml2}:${libxslt}
